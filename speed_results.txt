@@ -1,0 +1,5 @@
+CCTV7,http://125.125.134.245:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0,0.395 MB/s
+云南卫视,http://125.125.134.245:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0,0.395 MB/s
+河南卫视,http://125.125.134.245:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0,0.356 MB/s
+浙江卫视,http://125.125.134.245:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,0.395 MB/s
+深圳卫视,http://125.125.134.245:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,0.356 MB/s
